@@ -1,11 +1,7 @@
 <?php display_header( ); ?>
 
     <main>
-<<<<<<< HEAD
         <section class="hero-banner" style="background: url(<?php echo get_img_url('photo-1436491865332-7a61a109cc05.avif'); ?>) no-repeat center/cover;">
-=======
-        <section class="hero-banner" style="background: url(<?php echo get_img_url('Rectangle\ 8.jpg'); ?>) no-repeat center/cover;">
->>>>>>> origin/main
             <div class="container">
                 <h1>EB-1 CRITERIA</h1>
                 <p>Eb-1 immigrant visa petition requires you to either prove a one-time achievement (a major internationally-recognized award) or to satisfy 3 of the 10 listed criteria below (or comparable evidence if any of the criteria do not readily apply):

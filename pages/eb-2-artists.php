@@ -1,11 +1,7 @@
 <?php display_header( ); ?>
 
     <main>
-<<<<<<< HEAD
         <section class="hero-banner" style="background: url(<?php echo get_img_url('photo-1517245386807-bb43f82c33c4.avif'); ?>) no-repeat  center/cover;">
-=======
-        <section class="hero-banner" style="background: url(<?php echo get_img_url('Rectangle8.jpg'); ?>) no-repeat center/cover;">
->>>>>>> origin/main
             <div class="container">
                 <h1>EB-2 NATIONAL INTEREST WAIVER FOR ARTISTS, COACHES AND CREATIVE PROFFESIONALS</h1>
                 <a href="#form" class="btn">REQUEST A CONSULTATION</a>

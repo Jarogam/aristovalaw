@@ -1,7 +1,6 @@
 <?php display_header( ); ?>
 <main>
     <section class="hero-banner" style="background: url(<?php echo get_img_url('photo-1688940406200-08a4a193bcf0.avif'); ?>) no-repeat center/cover;">
-
         <div class="container">
             <h1>EB-2 Unlock Your American Dream: Immigrant Petitions for Applicants</h1>
             <p>
