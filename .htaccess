@@ -1,0 +1,9 @@
+RewriteEngine On
+
+# Запретить доступ к .php файлам в директории /pages/
+RewriteRule ^pages/.*\.php$ /404 [R=302,L]
+
+# Перенаправить все запросы к index.php, за исключением существующих файлов и директорий
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.php [L]
