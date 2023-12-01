@@ -217,11 +217,14 @@ li.menu-item {
 li.menu-item a {
   color: #000;
   text-decoration: none;
+  cursor: pointer;
+
 }
 
 li.menu-item a:where(:hover, :focus) {
   color: #B22234;
   text-decoration: none;
+  cursor: pointer;
 }
 
 .sub-menu {

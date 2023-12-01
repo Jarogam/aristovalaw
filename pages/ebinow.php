@@ -10,39 +10,6 @@
                 <button class="btn">REQUEST A CONSULTATION</button>
             </div>
         </section>
-<!--
-        <section class="ta-home-imrep">
-            <div class="container">
-                <div class="row-fl">
-                    <div class="col1_12 informer">
-                        <h2 class="title">Eb-1 immigrant visa petition requires you to either prove a one-time achievement (a major internationally-recognized award) or to satisfy 3 of the 10 listed criteria below (or comparable evidence if any of the criteria do not readily apply):</h2>
-                        <ul>
-                            <li>Evidence of receipt of lesser nationally or internationally recognized prizes
-                                            or awards for excellence</li>
-                            <li>Evidence of your membership in associations in the field which demand
-                                            outstanding achievement of their members</li>
-                            <li>Evidence of published material about you in professional or major trade
-                                            publications or other major media</li>
-                            <li>Evidence that you have been asked to judge the work of others, either
-                                            individually or on a panel</li>
-                            <li>Evidence of your original scientific, scholarly, artistic, athletic, or business-
-                                            related contributions of major significance to the field</li>
-                            <li>Evidence of your authorship of scholarly articles in professional or major
-                                            trade publications or other major media</li>
-                            <li>Evidence that your work has been displayed at artistic exhibitions or
-                                            showcases</li>
-                            <li>Evidence of your performance of a leading or critical role in distinguished
-                                            organizations</li>
-                            <li>Evidence that you command a high salary or other significantly high
-                                            remuneration in relation to others in the field</li>
-                            <li>Evidence of your commercial successes in the performing arts</li>
-                
-                            </ul>
-                    </div>
-                </div>
-            </div>
-        </section>
--->
         <section class="block-content">
             <div class="container">
                 <div class="block-content__wrapper">
@@ -71,11 +38,11 @@
                 </h2>
                 <div class="blog-wrapper">
                     <a href="<?php echo SITE_URL . '/eb-1-criteria/'; ?>" class="blog-item">
-                        <img src="<?php echo get_img_url('Rectangle9.jpg'); ?>" alt="image">
+                        <img src="<?php echo get_img_url('photo-1436491865332-7a61a109cc05.avif'); ?>" alt="image">
                         <h3>EB-1 CRITERIA</h3>
                     </a>
                     <a href="<?php echo SITE_URL . '/eb-1-list-initial/'; ?>" class="blog-item">
-                        <img src="<?php echo get_img_url('immigration-law _1.jpg'); ?>" alt="image">
+                        <img src="<?php echo get_img_url('photo-1454165804606-c3d57bc86b40.avif'); ?>" alt="image">
                         <h3>WHAT DOCUMENTS SHOULD BE SUBMITTED FOR EB-1 VISA PETITION</h3>
                     </a>
                     <a href="<?php echo SITE_URL . '/eb-1-immigration-filing-process/'; ?>" class="blog-item">
