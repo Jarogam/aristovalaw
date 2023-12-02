@@ -56,6 +56,10 @@
   padding: 15px;
 }
 
+.sidebar-menu .btn:first-child {
+  margin-top: 0;
+}
+
 .block-content .container {
   justify-content: space-between;
 }

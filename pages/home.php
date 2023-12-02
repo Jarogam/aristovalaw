@@ -113,6 +113,189 @@
                                     <p><em>– anonymous, 03.03.2017</em></p>
                                 </div>
                             </div>
+                            <div class="swiper-slide">
+                                <h3 class="item-title">
+                                    From Aidar Kabirov
+                                </h3>
+                                <div class="content">
+                                    <p>
+                                        An excellent, friendly team of professionals helped me get my green card in the shortest possible time. Thank you Tatyana and your team, I recommend it to everyone!
+                                    </p>
+                                    <p><em>Aidar October 9, 2023</em></p>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <h3 class="item-title">
+                                    EB2 NIW
+                                </h3>
+                                <div class="content">
+                                    <p>
+                                        I succesfully received my EB2 Green Card! Tatiana Aristova's office exceeded my expectation. I highly recommend! The team did a great job. Thanks all of you!!!
+                                    </p>
+                                    <p><em>KATE October 6, 2023</em></p>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <h3 class="item-title">
+                                    The best lawyer with an outstanding professionalism
+                                </h3>
+                                <div class="content">
+                                    <p>
+                                        Tatiana and her team helped me with acquiring my PRC through NIW. Very efficient and communicative, the team explained every single step with a great integrity and patience.
+                                        I didn't even know I was an outstanding professional myself, until we had a consultation and Tatiana pointed out all of my professional advantages which ultimately qualified me for NIW.
+                                    </p>
+                                    <p><em>Aigerim September 18, 2023</em></p>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <h3 class="item-title">
+                                    Green card
+                                </h3>
+                                <div class="content">
+                                    <p>
+                                        I would like to thank everyone who participated in resolving my case , especially Larisa , who navigated me with every single step , providing assistance with all the questions, showing professionalism and deep knowledge of her job ! Again thank you very much Tatiana and the whole team ! They helped me to receive a green card( was not an easy case ) but they did a great job and for my mother ( joining family)!
+                                    </p>
+                                    <p><em>Larysa K. September 14, 2023</em></p>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <h3 class="item-title">
+                                    Experienced, professional, and on point
+                                </h3>
+                                <div class="content">
+                                    <p>
+                                        I had a great experience with Tatiana S. Aristova's firm. The team is very efficient and there is a dedicated specialist for every step on your legal journey. Everything is done on time, with transparent communication, and fast feedback. There was an additional RFE step but that went well and the case was approved.
+                                    </p>
+                                    <p><em>Natalia N August 29, 2023</em></p>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <h3 class="item-title">
+                                    Exceeded all my expectations.
+                                </h3>
+                                <div class="content">
+                                    <p>
+                                        I had the pleasure of working with Tatiana S. Aristova and her team for my immigration case, and I must say, they exceeded all my expectations. From the very first consultation and throughout the whole process, she and her team were incredibly professional managing the case.
+                                    </p>
+                                    <p><em>Maryana August 8, 2023</em></p>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <h3 class="item-title">
+                                    NIW EB-2 Visa
+                                </h3>
+                                <div class="content">
+                                    <p>
+                                        In October 2021, my family and I sought advice from Tatyana Aristova's office on how to open our own business and develop it in America, followed by obtaining official documents that would allow us to stay in the United States legally. Throughout the process, we received competent advice from specialists regarding filing the necessary paperwork, making adjustments, and handling various nuances. By August 2022, we obtained a work permit and SSN.
+                                        We had our interview in early July 2023, and Tatiana represented us at the interview. We received our green cards shortly after the interview. I would like to express my gratitude to the entire team for their patience and support.
+                                    </p>
+                                    <p><em>Anvar July 27, 2023</em></p>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <h3 class="item-title">
+                                    EB1-A
+                                </h3>
+                                <div class="content">
+                                    <p>
+                                    Tatiana helped me get an EB1-A green card, I was very pleased with the work and the quick result. Thank you very much for your work! Highly recommend!
+                                    </p>
+                                    <p><em>Dmitry October 28, 2023</em></p>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <h3 class="item-title">
+                                    Got my green card
+                                </h3>
+                                <div class="content">
+                                    <p>
+                                    I am very happy that I trusted my case to Tatiana Aristova and her team . They helped me to stay and live in USA legally and to get green card . They are very professional and knowledgeable and they provide very good support on each step of immigration process . I would highly recommend them to anyone who needs assistance with immigration , just don’t look further. 
+                                    </p>
+                                    <p><em>Bekzodjon January 28, 2023</em></p>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <h3 class="item-title">
+                                    No empty promises, yes - serious deeds!
+                                </h3>
+                                <div class="content">
+                                    <p>
+                                    Tatiana Aristova has successfully brought our case to the status of permanent residents of the USA! She is a competent specialist who immediately points out the positive and negative aspects in the client's situation. This lawyer does not promise you wasted mountains of gold, but clearly sets you up to work together in the right direction!
+                                    </p>
+                                    <p><em>Natalia March 2, 2023</em></p>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <h3 class="item-title">
+                                    I got my green card(eb-2 NIW)
+                                </h3>
+                                <div class="content">
+                                    <p>
+                                        I started over 2 years ago. Everything went according to plan and I did not receive any rejections from all four (i-140,i-765,i-131,i-485). I would like to express my gratitude for the well-done service of the lawyer
+                                    </p>
+                                    <p><em>Bakhytbek March 6, 2023</em></p>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <h3 class="item-title">
+                                    Amazing service
+                                </h3>
+                                <div class="content">
+                                    <p>
+                                        Tatiana Aristova is an amazing lawyer with her team. I heard about them from our friends who got green card. We called , made appoitment and she started our case. Result is green...
+                                        Ill say, she is very experianced and smart lawer, I would say the best what Ive heard or met. And within 9 years I met lot.
+                                        Guys, dont even try to go somewhere else...
+                                        1000% recommendation to Aristova
+                                        Thank you again very much to whole team
+                                    </p>
+                                    <p><em>Giorgi April 20, 2023</em></p>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <h3 class="item-title">
+                                    Reliable and honest immigration attorney
+                                </h3>
+                                <div class="content">
+                                    <p>
+                                    With Tatiana and her team the process of getting employment based green cards for me and my family went very smoothly. I think absence any additional requests/inquiries from USCIS is the best indicator of the quality of her team’s work. This is exactly what I was looking for, and I really appreciate what was done for my case. Thank you!
+                                    </p>
+                                    <p><em>Katsiaryna April 24, 2023</em></p>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <h3 class="item-title">
+                                    Maria
+                                </h3>
+                                <div class="content">
+                                    <p>
+                                    Successfully received my EB2 green card. Will recommend Tatiana and her team to everyone, very professional and helpful. Thank you so much!
+                                    </p>
+                                    <p><em>Maria June 6, 2023</em></p>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <h3 class="item-title">
+                                    Great service
+                                </h3>
+                                <div class="content">
+                                    <p>
+                                        Thanks to the whole team of Tatiana Aristova. Got a green card. It took 2.5 years from the moment I submitted the application to the moment I received the green card. If you do everything as Tatiana Aristova says, then everything will work out.
+                                    </p>
+                                    <p><em>David B June 6, 2023</em></p>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <h3 class="item-title">
+                                    Successful experience!
+                                </h3>
+                                <div class="content">
+                                    <p>
+                                    Great professional team of attorneys! Always taking care of clients and doing their job at the high level. Definitely recommend!
+                                    </p>
+                                    <p><em>anonymous July 26, 2023</em></p>
+                                </div>
+                            </div>
+
                         </div>
                         <div class="swiper-button-prev"></div>
                         <div class="swiper-button-next"></div>
