@@ -10,7 +10,7 @@ const questions = {
         title: 'You are an extraordinary ability individual in:',
         options: [
             { text: 'Science', point: 0, step: 1 },
-            { text: 'Art', point: 0, step: 1 },
+            { text: 'Art', point: 0, step: 1 }, 
             { text: 'Sport', point: 0, step: 1 },
             { text: 'Dance', point: 0, step: 1 },
             { text: 'Engineering', point: 0, step: 1 },
