@@ -476,6 +476,7 @@ footer .top-footer .row-fl {
   /* border: 2px solid #B22234; */
   border: none;
   border-bottom: 1px solid black;
+  margin: 25px 30px;
 }
 
 .container-test  #questionnaire_form select {
