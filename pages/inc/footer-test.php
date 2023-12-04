@@ -3,7 +3,7 @@
 <section class="medium-footer">
     <div class="container">
         <div class="medium-footer__wrapper">
-            <a href="<?php echo SITE_URL . '/immigration-law-practice'; ?>">Immigration law practice </a>
+            <a href="<?php echo SITE_URL . '/im-lp'; ?>">Immigration law practice </a>
             <a href="<?php echo SITE_URL ?>">Our locations</a>
             <a href="<?php echo SITE_URL ?>">
                 <img src="<?php echo get_img_url('logo_tsa.png'); ?>" alt="logo">

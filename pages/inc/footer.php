@@ -1,4 +1,4 @@
-<footer>
+<footer id="footer-form">
 
 <section class="top-footer" style="background: url(<?php echo get_img_url('Rectangle8.jpg'); ?>) no-repeat center/cover;">
     <div class="container">
@@ -58,13 +58,13 @@
 <section class="medium-footer">
     <div class="container">
         <div class="medium-footer__wrapper">
-            <a href="<?php echo SITE_URL . '/immigration-law-practice/'; ?>">Immigration law practice </a>
-            <a href="<?php echo SITE_URL . '/our-locations/'; ?>">Our locations</a>
+            <a href="<?php echo SITE_URL . '/im-lp/'; ?>">Immigration law practice </a>
+            <a href="<?php echo SITE_URL . '/ol/'; ?>">Our locations</a>
             <a href="<?php echo SITE_URL ?>">
                 <img src="<?php echo get_img_url('logo_tsa.png'); ?>" alt="logo">
             </a>
-            <a href="<?php echo SITE_URL . '/ebinow/'; ?>">Extraordinary ability cases</a>
-            <a href="<?php echo SITE_URL . '/immigration-law/'; ?>">National interest waiver cases</a>
+            <a href="<?php echo SITE_URL . '/en/'; ?>">Extraordinary ability cases</a>
+            <a href="<?php echo SITE_URL . '/im-l/'; ?>">National interest waiver cases</a>
         </div>
     </div>
 </section>
