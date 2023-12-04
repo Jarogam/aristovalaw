@@ -1,4 +1,4 @@
-<footer>
+<footer class="test-footer">
 
 <section class="medium-footer">
     <div class="container">
