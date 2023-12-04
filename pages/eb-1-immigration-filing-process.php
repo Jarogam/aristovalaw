@@ -10,7 +10,7 @@
                     in the United States. We love assisting individuals with extraordinary abilities through each
                     step of the process.
                 </p>
-                <a href="#form" class="btn">REQUEST A CONSULTATION</a>
+                <a href="#footer-form" class="btn">REQUEST A CONSULTATION</a>
             </div>
         </section>
 

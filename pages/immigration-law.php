@@ -10,7 +10,7 @@
                 <div class="desc">
                     <p>Your immigration path doesn’t have to be filled with challenges and pitfalls. Let attorney <strong><span class="nap-item nap-item--name">Tatiana S. Aristova</span></strong> be your trusted guide.</p>
                 </div>
-                <a href="#" class="btn">
+                <a href="#footer-form" class="btn">
                     Schedule A Consultation
                 </a>
             </div>

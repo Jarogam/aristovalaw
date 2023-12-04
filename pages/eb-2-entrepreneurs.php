@@ -4,7 +4,7 @@
         <section class="hero-banner" style="background: url(<?php echo get_img_url('photo-1434030216411-0b793f4b4173.avif'); ?>) no-repeat center/cover;">
             <div class="container">
                 <h1>EB-2 NATIONAL INTEREST WAIVER FOR ENTREPRENEURS AND BUSINESS PROFESSIONALS</h1>
-                <a href="#form" class="btn">REQUEST A CONSULTATION</a>
+                <a href="#footer-form" class="btn">REQUEST A CONSULTATION</a>
             </div>
         </section>
 

@@ -4,7 +4,7 @@
         <section class="hero-banner" style="background: url(<?php echo get_img_url('photo-1517245386807-bb43f82c33c4.avif'); ?>) no-repeat  center/cover;">
             <div class="container">
                 <h1>EB-2 NATIONAL INTEREST WAIVER FOR ARTISTS, COACHES AND CREATIVE PROFFESIONALS</h1>
-                <a href="#form" class="btn">REQUEST A CONSULTATION</a>
+                <a href="##footer-form" class="btn">REQUEST A CONSULTATION</a>
             </div>
         </section>
 

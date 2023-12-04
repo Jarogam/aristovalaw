@@ -6,7 +6,7 @@
                 <h1>EB-1 CRITERIA</h1>
                 <p>Eb-1 immigrant visa petition requires you to either prove a one-time achievement (a major internationally-recognized award) or to satisfy 3 of the 10 listed criteria below (or comparable evidence if any of the criteria do not readily apply):
                 </p>
-                <a href="#form" class="btn">REQUEST A CONSULTATION</a>
+                <a href="#footer-form" class="btn">REQUEST A CONSULTATION</a>
             </div>
         </section>
 

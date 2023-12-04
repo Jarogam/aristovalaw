@@ -6,7 +6,7 @@
             <p>
                 Are you an applicant with advanced degree or exceptional ability in the sciences, arts, or business? Your path to realizing the American dream may lie in Immigrant Petitions for Alien Workers, as provided under Section 203(b)(2) of the Immigration and Nationality Act, 8 U.S.C. § 1153(b)(2).
             </p>
-            <a href="#form" class="btn">REQUEST A CONSULTATION</a>
+            <a href="#footer-form" class="btn">REQUEST A CONSULTATION</a>
         </div>
     </section>
 

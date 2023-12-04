@@ -6,7 +6,7 @@
                 <h1>Immigration Law Assistance From Someone Who Understands</h1>
                 <p>While this website provides general information, it does not constitute legal advice. The best way to get guidance on your specific legal issue is to contact a lawyer. To schedule a meeting with an attorney, please call the firm or complete the intake form below.
                 </p>
-                <a href="#form" class="btn">REQUEST A CONSULTATION</a>
+                <a href="#footer-form" class="btn">REQUEST A CONSULTATION</a>
             </div>
         </section>
 

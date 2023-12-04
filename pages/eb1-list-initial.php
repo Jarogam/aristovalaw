@@ -11,7 +11,7 @@
                     their field of endeavor. The individual must plan to continue to work in their area of
                     extraordinary ability and they must substantially benefit prospectively the United States.
                 </p>
-                <a href="#form" class="btn">REQUEST A CONSULTATION</a>
+                <a href="#footer-form" class="btn">REQUEST A CONSULTATION</a>
             </div>
         </section>
 
