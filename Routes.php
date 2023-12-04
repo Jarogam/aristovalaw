@@ -7,6 +7,9 @@ $routes = [
     '/test/' => 'pages/test.php',
     '/test' => 'pages/test.php',
 
+    '/our-locations/' => 'pages/our-locations.php',
+    '/our-locations' => 'pages/our-locations.php',
+
     '/ebinow/' => 'pages/ebinow.php',
     '/ebinow' => 'pages/ebinow.php',
 

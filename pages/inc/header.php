@@ -31,10 +31,10 @@
                         <li class="menu-item menu-item-has-children"><a tabindex="0" class="da11y-submenu" role="link">Immigration Law Practice</a>
                             <ul class="sub-menu">
                                 <li class="menu-item menu-item-has-children"><a href="./immigration-law/" tabindex="0" data-wpel-link="internal" class="da11y-submenu" aria-expanded="false" aria-haspopup="true" role="link">Immigration Law</a>
-                                    <ul class="sub-menu">
+                                    <!-- <ul class="sub-menu">
                                         <li class="menu-item"><a href="<?php echo SITE_URL ?>/eb-1-extraordinary-abilities-visa-faq/" tabindex="0" data-wpel-link="internal" aria-haspopup="true" role="link">EB-1 Extraordinary Abilities Visa FAQ</a></li>
                                         <li class="menu-item"><a href="<?php echo SITE_URL ?>/eb-2-national-interest-waiver/" tabindex="0" data-wpel-link="internal" aria-haspopup="true" role="link">EB-2 National Interest Waiver</a></li>
-                                    </ul>
+                                    </ul> -->
                                 </li>
                             </ul>
                         </li>
