@@ -159,6 +159,22 @@ img {
   right: 0;
 }
 
+main.eb1li-page section.hero-banner .container {
+  position: relative;
+  z-index: 20;
+}
+
+main.eb1li-page section.hero-banner:after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: rgb(255 255 255 / 45%);
+  z-index: 0;
+}
+
 p.clean-css {
   margin: 0;
   padding: 0;

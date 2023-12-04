@@ -1,6 +1,6 @@
 <?php display_header( ); ?>
 
-    <main>
+    <main class="eb1li-page">
         <section class="hero-banner" style="background: url(<?php echo get_img_url('photo-1454165804606-c3d57bc86b40.avif'); ?>) no-repeat center/cover;">
             <div class="container">
                 <h1>WHAT DOCUMENTS SHOULD BE SUBMITTED FOR EB-1 VISA PETITION</h1>

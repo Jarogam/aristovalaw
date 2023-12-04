@@ -41,7 +41,7 @@
                         <img src="<?php echo get_img_url('photo-1436491865332-7a61a109cc05.avif'); ?>" alt="image">
                         <h3>EB-1 CRITERIA</h3>
                     </a>
-                    <a href="<?php echo SITE_URL . '/eb-1-list-initial/'; ?>" class="blog-item">
+                    <a href="<?php echo SITE_URL . '/eb1li/'; ?>" class="blog-item">
                         <img src="<?php echo get_img_url('photo-1454165804606-c3d57bc86b40.avif'); ?>" alt="image">
                         <h3>WHAT DOCUMENTS SHOULD BE SUBMITTED FOR EB-1 VISA PETITION</h3>
                     </a>
