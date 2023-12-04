@@ -159,6 +159,22 @@ img {
   right: 0;
 }
 
+main.eb1li-page section.hero-banner .container {
+  position: relative;
+  z-index: 20;
+}
+
+main.eb1li-page section.hero-banner:after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: rgb(255 255 255 / 45%);
+  z-index: 0;
+}
+
 p.clean-css {
   margin: 0;
   padding: 0;
@@ -481,6 +497,7 @@ footer .top-footer .row-fl {
   /* border: 2px solid #B22234; */
   border: none;
   border-bottom: 1px solid black;
+  margin: 25px 30px;
 }
 
 .container-test  #questionnaire_form select {
@@ -489,4 +506,11 @@ footer .top-footer .row-fl {
   border: none;
   border-bottom: 1px solid black;
   margin: 0 10px ;
+}
+
+.test-footer {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }

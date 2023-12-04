@@ -18,9 +18,15 @@ function get_img_url($dir) {
 }
 
 // Functions for connecting parts of the template
-function display_header( ) {
-    include DOCUMENT_ROOT . '/pages/inc/header.php';
+function display_header($path = '') {
+    if ($path != "") {
+        $path = '-' . $path;
+    }
+    include DOCUMENT_ROOT . '/pages/inc/header' . $path . '.php';
 }
-function display_footer( ) {
-    include DOCUMENT_ROOT . '/pages/inc/footer.php';
+function display_footer($path = '') {
+    if ($path != "") {
+        $path = '-' . $path;
+    }
+    include DOCUMENT_ROOT . '/pages/inc/footer' . $path . '.php';
 }

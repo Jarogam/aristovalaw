@@ -10,7 +10,7 @@ const questions = {
         title: 'You are an extraordinary ability individual in:',
         options: [
             { text: 'Science', point: 0, step: 1 },
-            { text: 'Art', point: 0, step: 1 },
+            { text: 'Art', point: 0, step: 1 }, 
             { text: 'Sport', point: 0, step: 1 },
             { text: 'Dance', point: 0, step: 1 },
             { text: 'Engineering', point: 0, step: 1 },
@@ -196,3 +196,5 @@ var testFailedText = `
     <p>It looks like you probably may not qualify to file an I-140 immigrant visa petition as an alien of extraordinary ability in Art, but we can suggest other visa categories that correspond to your situation.</p>
     <p>In order to have our immigration attorney, Tatiana S. Aristova, Esq., to review your situation and determine if you should indeed file I-140 immigrant visa petition as an alien of an extraordinary ability and whether we will be able to represent you in this filing, please click here.</p>
 `;
+
+var goToBtn_url = '/';

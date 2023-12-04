@@ -8,4 +8,4 @@
         <script src="<?php echo get_js_url('configs.js'); ?>"></script>        
         <script src="<?php echo get_js_url('core.c.js'); ?>"></script> 
 
-<?php display_footer( ); ?>
+<?php display_footer('test'); ?>

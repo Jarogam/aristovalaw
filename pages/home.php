@@ -11,7 +11,7 @@
                 <span>
                     Member of American Immigration Lawyers Association (AILA)
                 </span>
-                <a href="" class="btn">REQUEST A CONSULTATION</a>
+                <a href="#footer-form" class="btn">REQUEST A CONSULTATION</a>
                 
                 <p>
                     Tatiana S. Aristova, Esq. concentrates her practice in business and employment-based immigration, with
@@ -36,9 +36,9 @@
 
             </div>
             <nav class="sidebar-menu">
-                <a href="#" class="sidebar-menu__links btn">Extraordinary Ability Cases</a>
-                <a href="#" class="sidebar-menu__links btn">National Interest Waiver Cases</a>
-                <a href="#" class="sidebar-menu__links btn">Our locations</a>
+                <a href="<?php echo SITE_URL . '/en/'; ?>" class="sidebar-menu__links btn">Extraordinary Ability Cases</a>
+                <a href="<?php echo SITE_URL . '/im-l/'; ?>" class="sidebar-menu__links btn">National Interest Waiver Cases</a>
+                <a href="<?php echo SITE_URL . '/ol/'; ?>" class="sidebar-menu__links btn">Our locations</a>
             </nav>
         </div>
     </section>

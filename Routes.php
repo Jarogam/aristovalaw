@@ -7,33 +7,32 @@ $routes = [
     '/test/' => 'pages/test.php',
     '/test' => 'pages/test.php',
 
+    '/ol/' => 'pages/our-locations.php',
+    '/ol' => 'pages/our-locations.php',
 
-    '/our-locations/' => 'pages/locations.php',
-    '/our-locations' => 'pages/locations.php',
+    '/en/' => 'pages/ebinow.php',
+    '/en' => 'pages/ebinow.php',
 
-    '/ebinow/' => 'pages/ebinow.php',
-    '/ebinow' => 'pages/ebinow.php',
+    '/eb2e' => 'pages/eb-2-entrepreneurs.php',
+    '/eb2e/' => 'pages/eb-2-entrepreneurs.php',
 
-    '/eb-2-entrepreneurs' => 'pages/eb-2-entrepreneurs.php',
-    '/eb-2-entrepreneurs/' => 'pages/eb-2-entrepreneurs.php',
+    '/eb2a' => 'pages/eb-2-artists.php',
+    '/eb2a/' => 'pages/eb-2-artists.php',
 
-    '/eb-2-artists' => 'pages/eb-2-artists.php',
-    '/eb-2-artists/' => 'pages/eb-2-artists.php',
+    '/eb1imm-fp' => 'pages/eb-1-immigration-filing-process.php',
+    '/eb1imm-fp/' => 'pages/eb-1-immigration-filing-process.php',
 
-    '/eb-1-immigration-filing-process' => 'pages/eb-1-immigration-filing-process.php',
-    '/eb-1-immigration-filing-process/' => 'pages/eb-1-immigration-filing-process.php',
+    '/eb1c' => 'pages/eb-1-criteria.php',
+    '/eb1c/' => 'pages/eb-1-criteria.php',
 
-    '/eb-1-criteria' => 'pages/eb-1-criteria.php',
-    '/eb-1-criteria/' => 'pages/eb-1-criteria.php',
-
-    '/eb-1-list-initial' => 'pages/eb1-list-initial.php',
-    '/eb-1-list-initial/' => 'pages/eb1-list-initial.php',
+    '/eb1li' => 'pages/eb1-list-initial.php',
+    '/eb1li/' => 'pages/eb1-list-initial.php',
     
-    '/immigration-law-practice' => 'pages/immigration-law-practice.php',
-    '/immigration-law-practice/' => 'pages/immigration-law-practice.php',
+    '/im-lp' => 'pages/immigration-law-practice.php',
+    '/im-lp/' => 'pages/immigration-law-practice.php',
 
-    '/immigration-law' => 'pages/immigration-law.php',
-    '/immigration-law/' => 'pages/immigration-law.php',
+    '/im-l' => 'pages/immigration-law.php',
+    '/im-l/' => 'pages/immigration-law.php',
     
     '/privacy-policy' => 'pages/privacy-policy.php',
     '/privacy-policy/' => 'pages/privacy-policy.php',
@@ -41,8 +40,8 @@ $routes = [
     '/disclaimer' => 'pages/disclaimer.php',
     '/disclaimer/' => 'pages/disclaimer.php',
 
-    '/eb-2-scientist' => 'pages/eb-2-scientist.php',
-    '/eb-2-scientist/' => 'pages/eb-2-scientist.php',
+    '/eb2s' => 'pages/eb-2-scientist.php',
+    '/eb2s/' => 'pages/eb-2-scientist.php',
     
 ];
 
