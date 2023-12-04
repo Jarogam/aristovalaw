@@ -371,6 +371,11 @@ footer .top-footer .row-fl {
   bottom: -10px;
   z-index: -1;
 }
+
+.block-info a {
+  color: #C10000;
+  text-decoration: none;
+}
 .block-info ul, .block-info ol {
   list-style: none;
   padding-left: 30px;
