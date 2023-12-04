@@ -2,7 +2,7 @@
 <main>
     <section class="hero-banner" style="background: url(<?php echo get_img_url('banner-bg.jpg'); ?>) no-repeat center/cover;">
         <div class="container">
-            <h1 style="color:#fff">PWALK YOUR IMMIGRATION PATH WITH CONFIDENCE</h1>
+            <h1 style="color:#fff">WALK YOUR IMMIGRATION PATH WITH CONFIDENCE</h1>
         </div>
     </section>
     <section class="block-content">
