@@ -4,7 +4,7 @@
         <section class="hero-banner" style="background: url(<?php echo get_img_url('photo-1436491865332-7a61a109cc05.avif'); ?>) no-repeat center/cover;">
             <div class="container">
                 <h1>EB-1 CRITERIA</h1>
-                <p>Eb-1 immigrant visa petition requires you to either prove a one-time achievement (a major internationally-recognized award) or to satisfy 3 of the 10 listed criteria below (or comparable evidence if any of the criteria do not readily apply):
+                <p>Eb-1 immigrant visa petition requires you to either prove a one-time achievement (a major internationally-recognized award) or to satisfy 3 of the 10 listed criteria below (or comparable evidence if any of the criteria do not readily apply).
                 </p>
                 <a href="#footer-form" class="btn">REQUEST A CONSULTATION</a>
             </div>
@@ -13,7 +13,11 @@
         <section class="block-info">
             <div class="container">
                 <div class="block-info__wrapper">
+                    <h2>
+                        The criteria to establish extraordinary ability:
+                    </h2>
                     <ul>
+                        
                         <li>Evidence of receipt of lesser nationally or internationally recognized prizes or awards for excellence</li>
                         <li>Evidence of your membership in associations in the field which demand outstanding achievement of their members</li>
                         <li>Evidence of published material about you in professional or major trade publications or other major media</li>

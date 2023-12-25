@@ -1,10 +1,10 @@
 <?php display_header( ); ?>
 
     <main class="eb1li-page">
-        <section class="hero-banner" style="background: url(<?php echo get_img_url('photo-1454165804606-c3d57bc86b40.avif'); ?>) no-repeat center/cover;">
+        <section class="hero-banner" style="background: url(<?php echo get_img_url('photo-1603796846097-bee99e4a601f.avif'); ?>) no-repeat center/cover;">
             <div class="container">
                 <h1>WHAT DOCUMENTS SHOULD BE SUBMITTED FOR EB-1 VISA PETITION</h1>
-                <p>The E11 immigrant classification applies to individuals with extraordinary ability in the sciences,
+                <p>The EB-1 immigrant classification applies to individuals with extraordinary ability in the sciences,
                     arts, education, business, or athletics. The individual must demonstrate that they have sustained
                     national or international acclaim and that their achievements have been recognized in the field of
                     expertise, indicating that they are one of that small percentage who has risen to the very top of

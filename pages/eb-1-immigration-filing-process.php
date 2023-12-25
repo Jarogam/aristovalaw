@@ -1,9 +1,9 @@
 <?php display_header( ); ?>
 
     <main>
-        <section class="hero-banner" style="background: url(<?php echo get_img_url('Rectangle8.jpg'); ?>) no-repeat center/cover;">
+        <section class="hero-banner" style="background: url(<?php echo get_img_url('photo-1436491865332-7a61a109cc05.avif'); ?>) no-repeat center/cover;">
             <div class="container">
-                <h1>EB-1 IMMIGRATION VISA PETITION FILING PROCESS</h1>
+                <h1>EB-1 IMMIGRANT VISA PETITION FILING PROCESS</h1>
                 <p>
                     Introduction: Navigating the EB-1 Visa application process can be a complex journey, but with
                     the right legal guidance, it can become a seamless path towards securing permanent residency
@@ -20,7 +20,7 @@
                     <ul>
                         <li>Step 1: Initial Assessment and Evidence Gathering
                             <p>
-                                The first crucial step in the EB-1 Visa application process is to determine whether you qualify
+                                The first crucial step in the EB-1 Visa application process is to determine whether 
                                 for this prestigious visa category. To do this, our team will work closely with you to gather the
                                 necessary evidence that showcases your extraordinary abilities in your respective field.
                             </p> 
