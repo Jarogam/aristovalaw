@@ -2,7 +2,7 @@
 
 <section class="top-footer" style="background: url(<?php echo get_img_url('Rectangle8.jpg'); ?>) no-repeat center/cover;">
     <div class="container">
-        <h2>Get Immigration Assistance Today</h2>
+        <h2>Получите иммиграционную помощь сегодня</h2>
         <div class="form-fields-required">Fields marked with an <span style="color: red;">*</span> are required</div>
 
         <form action="<?php echo SITE_URL . '/requests/send_email.php'; ?>" method="post">
@@ -10,19 +10,19 @@
             <div class="row-fl">
                 <div class="col-full-1_3">
                     <div class="input-wrapper">
-                        <label for="inp-1">Name</label>
+                        <label for="inp-1">Имя</label>
                         <input id="inp-1" type="text">
                     </div>
                 </div>
                 <div class="col-full-1_3">
                     <div class="input-wrapper">
-                        <label for="inp-1">Email<span style="color: red;">*</span></label>
+                        <label for="inp-1">Почта<span style="color: red;">*</span></label>
                         <input id="inp-1" type="text">
                     </div>
                 </div>
                 <div class="col-full-1_3">
                     <div class="input-wrapper">
-                        <label for="inp-1">Phone</label>
+                        <label for="inp-1">Телефон</label>
                         <input id="inp-1" type="text">
                     </div>
                 </div>
@@ -30,21 +30,21 @@
 
             <div class="row-fl">
                 <div class="input-wrapper" style="width: 100%;">
-                    <label for="textarea">Message</label>
+                    <label for="textarea">сообщение</label>
                     <textarea name="" id="textarea" cols="30" rows="10"></textarea>
                 </div>
             </div>
             <div class="row-fl">
                 <div class="form-links">	
-                    <a href="/disclaimer/" id="form-disclaimer-trigger" aria-expanded="false">Disclaimer</a> | 
-                    <a href="/privacy-policy/" target="_blank">Privacy Policy</a>
+                    <a href="/ru/disclaimer" id="form-disclaimer-trigger" aria-expanded="false">Отказ от ответственности</a> | 
+                    <a href="/ru/privacy-policy" target="_blank">Политика Конфиденциальности</a>
                 </div>
             </div>
 
             <div class="nf-field-label">
                 <input id="field-30" type="checkbox" value="1" aria-required="true" required="">
                 <label for="field-30" class="disclaimer-check">
-                    I have read the disclaimer. <span class="forms-req-symbol">*</span> 
+                    Я прочитал отказ от ответственности. <span class="forms-req-symbol">*</span> 
                 </label>
             </div>
 
@@ -58,13 +58,13 @@
 <section class="medium-footer">
     <div class="container">
         <div class="medium-footer__wrapper">
-            <a href="<?php echo SITE_URL . '/im-lp/'; ?>">Immigration law practice </a>
-            <a href="<?php echo SITE_URL . '/lo/'; ?>">Our locations</a>
+            <a href="<?php echo SITE_URL . '/ru/im-lp/'; ?>">Immigration law practice </a>
+            <a href="<?php echo SITE_URL . '/ru/lo/'; ?>">Our locations</a>
             <a href="<?php echo SITE_URL ?>">
                 <img src="<?php echo get_img_url('logo_tsa.png'); ?>" alt="logo">
             </a>
-            <a href="<?php echo SITE_URL . '/en/'; ?>">Extraordinary ability cases</a>
-            <a href="<?php echo SITE_URL . '/im-l/'; ?>">National interest waiver cases</a>
+            <a href="<?php echo SITE_URL . '/ru/en/'; ?>">Extraordinary ability cases</a>
+            <a href="<?php echo SITE_URL . '/ru/im-l/'; ?>">National interest waiver cases</a>
         </div>
     </div>
 </section>

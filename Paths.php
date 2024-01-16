@@ -30,3 +30,15 @@ function display_footer($path = '') {
     }
     include DOCUMENT_ROOT . '/pages/inc/footer' . $path . '.php';
 }
+function display_headerRu($path = '') {
+    if ($path != "") {
+        $path = '-' . $path;
+    }
+    include DOCUMENT_ROOT . '/pages/inc/headerRu' . $path . '.php';
+}
+function display_footerRu($path = '') {
+    if ($path != "") {
+        $path = '-' . $path;
+    }
+    include DOCUMENT_ROOT . '/pages/inc/footerRu' . $path . '.php';
+}

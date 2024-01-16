@@ -1,0 +1,122 @@
+.about-info {
+    background-image: linear-gradient(179deg,rgba(0,0,0,0.94) 30%,rgba(0,0,0,0.27) 100%),url(../../img/photo-1621534864185-19a06671ed23.avif)!important;    padding: 15px 0;
+    padding: 15px 0 80px;
+}
+
+.about-info .container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.about-info__wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    width: calc(75% - 45px);
+    background-color: #fff;
+    margin-right: 30px;
+    padding: 15px;
+    text-align: center;
+}
+
+.about-info__wrapper h1 {
+    font-size: 46px;
+    font-weight: 500;
+    line-height: 1;
+}
+
+.about-info__wrapper img {
+    width: 400px;
+    height: 400px;
+    margin: 20px auto;
+}
+
+.about-info__wrapper p {
+    margin: 10px 0;
+    color: #000;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+.about-info__wrapper .btn {
+    margin: 20px auto;
+}
+
+
+.sidebar-menu {
+    width: calc(25% - 15px);
+}
+
+.sidebar-menu {
+    .btn {
+        width: 100%;
+        margin-bottom: 20px;
+        font-size: 16px;
+        padding: 15px;
+
+        &:first-child {
+            margin-top: 0;
+        }
+    }
+}
+
+.block-content {
+    .container {
+        justify-content: space-between;
+    }
+}
+
+
+.ta-home-imrep .informer li{
+    list-style: circle;
+    padding: 7px 0;
+}
+
+@media screen and (max-width: 1200px){
+    .block-content .container {
+    }
+}
+
+@media screen and (max-width: 768px){
+    .sidebar-menu {
+        order: 1;
+
+        a.btn {
+            display: block;
+            width: auto;
+        }
+    }
+
+    .about-info__wrapper {
+        order: 2;
+        margin-right: 0;
+
+        img {
+            width: 300px;
+            height: 300px;
+        }
+    }
+
+    .about-info__wrapper,
+    .sidebar-menu {
+        width: 100%;
+    }
+    .block-content__text h2 {
+        margin-top: 40px;
+    }
+    .block-content__text p {
+        padding: 34px 0;
+    }
+
+    .block-content__img {
+        max-height: 400px;
+    }
+    .block-content__img,
+    .block-content__text {
+        width: 100%;
+    }
+}
+

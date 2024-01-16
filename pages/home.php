@@ -38,7 +38,7 @@
             <nav class="sidebar-menu">
                 <a href="<?php echo SITE_URL . '/en/'; ?>" class="sidebar-menu__links btn">Extraordinary Ability Cases</a>
                 <a href="<?php echo SITE_URL . '/im-l/'; ?>" class="sidebar-menu__links btn">National Interest Waiver Cases</a>
-                <a href="<?php echo SITE_URL . '/ol/'; ?>" class="sidebar-menu__links btn">Our locations</a>
+                <a href="<?php echo SITE_URL . '/lo/'; ?>" class="sidebar-menu__links btn">Our locations</a>
             </nav>
         </div>
     </section>
@@ -65,12 +65,12 @@
     <div class="ta-home-tguid">
         <div class="container">
             <div class="row-fl">
-                <div class="col-full-1_2">
+                <div class="ucol3_4">
                     <h2>Trusted Guidance From Someone Who Knows The Process Well</h2>
                     <p><strong>Ms. Aristova</strong> has personal experience with the immigration process because as an immigrant, she went through the process herself. This experience gives her insights into the pitfalls and difficulties most immigrants face as well as the tight timelines some immigrants have to face with their immigration status. For clients who are seeking work-related visas, she applies her training from her MBA program at New York University to build a strong business case for their immigration to America.</p>
                     <p>She will personally advise you on document collection and application submission deadlines as well as help prepare you for your immigration interview. Your calls and emails will always be addressed in a timely manner, so you feel connected and up to date on things in real time.</p>
                 </div>
-                <div class="col-full-1_2"></div>
+<!--                <div class="col-full-1_2"></div>-->
             </div>
         </div>
     </div>

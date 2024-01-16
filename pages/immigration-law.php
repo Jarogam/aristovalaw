@@ -1,6 +1,6 @@
 <?php display_header( ); ?>
 
-<div class="ta-home-banner" style="background-image: linear-gradient(90deg, rgba(255, 255, 255, 0.85) 57%, rgba(255, 255, 255, 0) 100%), url(<?php echo get_img_url('banner-bg.jpg') ?>) !important;">
+<div class="ta-home-banner" style="background-image: linear-gradient(90deg, rgba(255, 255, 255, 0.85) 57%, rgba(255, 255, 255, 0) 100%), url(<?php echo get_img_url('premium_photo-1680582107403-04dfac02efc3.avif') ?>) !important;">
     <div class="container">
         <div class="row-fl">
             <div class="col-full-1_2 informer">
