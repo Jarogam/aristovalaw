@@ -30,17 +30,17 @@ function display_footer($path = '') {
     if ($path != "") {
         $path = '-' . $path;
     }
-    include DOCUMENT_ROOT . '/pages/inc/footer' . $path . '.php';
+    include DOCUMENT_ROOT . SUBDIR . '/pages/inc/footer' . $path . '.php';
 }
 function display_headerRu($path = '') {
     if ($path != "") {
         $path = '-' . $path;
     }
-    include DOCUMENT_ROOT . '/pages/inc/headerRu' . $path . '.php';
+    include DOCUMENT_ROOT . SUBDIR . '/pages/inc/headerRu' . $path . '.php';
 }
 function display_footerRu($path = '') {
     if ($path != "") {
         $path = '-' . $path;
     }
-    include DOCUMENT_ROOT . '/pages/inc/footerRu' . $path . '.php';
+    include DOCUMENT_ROOT . SUBDIR . '/pages/inc/footerRu' . $path . '.php';
 }
