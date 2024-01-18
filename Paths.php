@@ -44,3 +44,9 @@ function display_footerRu($path = '') {
     }
     include DOCUMENT_ROOT . SUBDIR . '/pages/inc/footerRu' . $path . '.php';
 }
+
+//// 
+
+function get_pagelink($url) {
+    return SITE_URL . SUBDIR . $url;
+}
