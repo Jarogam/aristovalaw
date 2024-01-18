@@ -1,2 +1,6 @@
 /node_modules
 /.ddev
+/.idea
+github-updater.php
+terminal.php
+__OLD*
