@@ -3,6 +3,8 @@
 // Check routes for routing
 $routes = [
     '/' => '/pages/home.php',
+    '' => '/pages/home.php',
+    '/ru' => '/pages/ru/pages/home.php',
     '/ru/' => '/pages/ru/pages/home.php',
 
     '/test/' => '/pages/test.php',
@@ -127,12 +129,7 @@ $request_uri = str_replace(SUBDIR, '', $_SERVER['REQUEST_URI']);
 
 // Search for a specific page in an array of routes
 if (array_key_exists($request_uri, $routes)) {
-
-
         include DOCUMENT_ROOT . SUBDIR . $routes[$request_uri];
-    
-
-    
 } else {
     try {
         include DOCUMENT_ROOT . SUBDIR . '/pages/404.php';
