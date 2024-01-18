@@ -5,5 +5,6 @@ github-updater.php
 terminal.php
 __OLD*
 .vscode
+error_log
 
 Routes.php
