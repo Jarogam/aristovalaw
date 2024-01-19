@@ -27,10 +27,10 @@
                 </div>
                 <div class="header-nav-flex">
                     <ul class="header-nav">
-                        <li class="menu-item"><a href="<?php echo SITE_URL ?>" tabindex="0" data-wpel-link="internal" role="link">Home</a></li>
-                        <li class="menu-item"><a href="<?php echo SITE_URL . '/ru/lo/'; ?>" tabindex="0" data-wpel-link="internal" role="link">Our Locations</a></li>
+                        <li class="menu-item"><a href="<?php echo get_pagelink('') ?>" tabindex="0" data-wpel-link="internal" role="link">Home</a></li>
+                        <li class="menu-item"><a href="<?php echo get_pagelink('/ru/lo/'); ?>" tabindex="0" data-wpel-link="internal" role="link">Our Locations</a></li>
                         <li class="menu-item menu-item-has-children"><a tabindex="0" class="da11y-submenu" href="<?php echo SITE_URL . '/ru/im-lp/'; ?>" role="link">Immigration Law Practice</a>
-                        <li class="menu-item"><a href="<?php echo SITE_URL . '/ru/im-l/'; ?>" tabindex="0" data-wpel-link="internal" role="link">National Interest Waiver Cases</a></li>
+                        <li class="menu-item"><a href="<?php echo get_pagelink('/ru/im-l/'); ?>" tabindex="0" data-wpel-link="internal" role="link">National Interest Waiver Cases</a></li>
 
 <!--                            <ul class="sub-menu">-->
 <!--                                <li class="menu-item menu-item-has-children"><a href="--><?php //echo SITE_URL . '/im-l/'; ?><!--" tabindex="0" data-wpel-link="internal" class="da11y-submenu" aria-expanded="false" aria-haspopup="true" role="link">Immigration Law</a>-->

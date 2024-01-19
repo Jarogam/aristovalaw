@@ -58,13 +58,13 @@
 <section class="medium-footer">
     <div class="container">
         <div class="medium-footer__wrapper">
-            <a href="<?php echo SITE_URL . '/ru/im-lp/'; ?>">Immigration law practice </a>
-            <a href="<?php echo SITE_URL . '/ru/lo/'; ?>">Our locations</a>
-            <a href="<?php echo SITE_URL ?>">
+            <a href="<?php echo get_pagelink('/ru/im-lp/'); ?>">Immigration law practice </a>
+            <a href="<?php echo get_pagelink('/ru/lo/'); ?>">Our locations</a>
+            <a href="<?php echo get_pagelink() ?>">
                 <img src="<?php echo get_img_url('logo_tsa.png'); ?>" alt="logo">
             </a>
-            <a href="<?php echo SITE_URL . '/ru/en/'; ?>">Extraordinary ability cases</a>
-            <a href="<?php echo SITE_URL . '/ru/im-l/'; ?>">National interest waiver cases</a>
+            <a href="<?php echo get_pagelink('/ru/en/'); ?>">Extraordinary ability cases</a>
+            <a href="<?php echo get_pagelink('/ru/im-l/'); ?>">National interest waiver cases</a>
         </div>
     </div>
 </section>

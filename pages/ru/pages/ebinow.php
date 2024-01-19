@@ -32,22 +32,22 @@
         </section>
 
         
-
+    
         <section class="blog">
             <div class="container">
                 <h2>
                     ПРАКТИЧЕСКИЕ АСПЕКТЫ ПОДАЧИ ЗАЯВЛЕНИЯ НА EB-1
                 </h2>
                 <div class="blog-wrapper">
-                    <a href="<?php echo SITE_URL . '/ru/eb1c/'; ?>" class="blog-item">
+                    <a href="<?php echo get_pagelink('/ru/eb1c/'); ?>" class="blog-item">
                         <img src="<?php echo get_img_url('photo-1436491865332-7a61a109cc05.avif'); ?>" alt="изображение">
                         <h3>КРИТЕРИИ EB-1</h3>
                     </a>
-                    <a href="<?php echo SITE_URL . '/ru/eb1li/'; ?>" class="blog-item">
+                    <a href="<?php echo get_pagelink('/ru/eb1li/'); ?>" class="blog-item">
                         <img src="<?php echo get_img_url('photo-1454165804606-c3d57bc86b40.avif'); ?>" alt="изображение">
                         <h3>КАКИЕ ДОКУМЕНТЫ ДОЛЖНЫ БЫТЬ ПОДАНЫ ДЛЯ ЗАЯВЛЕНИЯ НА ВИЗУ EB-1</h3>
                     </a>
-                    <a href="<?php echo SITE_URL . '/ru/eb1imm-fp/'; ?>" class="blog-item">
+                    <a href="<?php echo get_pagelink('/ru/eb1imm-fp/'); ?>" class="blog-item">
                         <img src="<?php echo get_img_url('photo_2023-06-27a_22-45-00.jpg'); ?>" alt="изображение">
                         <h3>ПРОЦЕСС ПОДАЧИ ЗАЯВЛЕНИЯ НА ИММИГРАЦИОННУЮ ВИЗУ EB-1</h3>
                     </a>
