@@ -5,7 +5,7 @@
         <h2>Get Immigration Assistance Today</h2>
         <div class="form-fields-required">Fields marked with an <span style="color: red;">*</span> are required</div>
 
-        <form action="<?php echo SITE_URL . '/requests/send_email.php'; ?>" method="post">
+        <form action="<?php echo SITE_URL . SUBDIR . '/requests/send_email.php'; ?>" method="post">
 
             <div class="row-fl">
                 <div class="col-full-1_3">
