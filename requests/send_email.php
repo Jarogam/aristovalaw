@@ -22,7 +22,7 @@ use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
 // Email Options
-$to = "tatiana@immigrationwise.com";  // <---------------------------------- Change EMAIL
+$to = "c03v23@gmail.com";  // <---------------------------------- Change EMAIL
 $subject = $email ?: "Empty" . ' || Feedback from site form';
 $message = $formattedMessage;
 
