@@ -43,7 +43,7 @@
                         </li>
                     </ul>
                     <ul class="header-nav">
-                        <li class="menu-item"><a href="<?php echo get_pagelink(""); ?>">Eng</a></li>
+                        <li class="menu-item"><a href="<?php echo get_pagelink("/"); ?>">Eng</a></li>
                         /
                         <li class="menu-item"><a href="<?php echo get_pagelink("ru/"); ?>" tabindex="0" data-wpel-link="internal" role="link">Ru</a></li>
                     </ul>

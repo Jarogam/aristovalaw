@@ -5,7 +5,7 @@
         <h2>Get Immigration Assistance Today</h2>
         <div class="form-fields-required">Fields marked with an <span style="color: red;">*</span> are required</div>
 
-        <form action="<?php echo SITE_URL . '/requests/send_email.php'; ?>" method="post">
+        <form action="<?php echo get_img_url(''); ?>" method="post">
 
             <div class="row-fl">
                 <div class="col-full-1_3">
@@ -58,13 +58,13 @@
 <section class="medium-footer">
     <div class="container">
         <div class="medium-footer__wrapper">
-            <a href="<?php echo SITE_URL . '/im-lp/'; ?>">Immigration law practice </a>
-            <a href="<?php echo SITE_URL . '/lo/'; ?>">Our locations</a>
-            <a href="<?php echo SITE_URL ?>">
+            <a href="<?php echo get_img_url('/im-lp/'); ?>">Immigration law practice </a>
+            <a href="<?php echo get_img_url('/lo/'); ?>">Our locations</a>
+            <a href="<?php echo get_img_url('/') ?>">
                 <img src="<?php echo get_img_url('logo_tsa.png'); ?>" alt="logo">
             </a>
-            <a href="<?php echo SITE_URL . '/en/'; ?>">Extraordinary ability cases</a>
-            <a href="<?php echo SITE_URL . '/im-l/'; ?>">National interest waiver cases</a>
+            <a href="<?php echo get_img_url('/en/'); ?>">Extraordinary ability cases</a>
+            <a href="<?php echo get_img_url('/im-l/'); ?>">National interest waiver cases</a>
         </div>
     </div>
 </section>

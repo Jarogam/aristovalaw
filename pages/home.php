@@ -36,9 +36,9 @@
 
             </div>
             <nav class="sidebar-menu">
-                <a href="<?php echo SITE_URL . '/en/'; ?>" class="sidebar-menu__links btn">Extraordinary Ability Cases</a>
-                <a href="<?php echo SITE_URL . '/im-l/'; ?>" class="sidebar-menu__links btn">National Interest Waiver Cases</a>
-                <a href="<?php echo SITE_URL . '/lo/'; ?>" class="sidebar-menu__links btn">Our locations</a>
+                <a href="<?php echo get_pagelink('en/'); ?>" class="sidebar-menu__links btn">Extraordinary Ability Cases</a>
+                <a href="<?php echo get_pagelink('im-l/'); ?>" class="sidebar-menu__links btn">National Interest Waiver Cases</a>
+                <a href="<?php echo get_pagelink('lo/'); ?>" class="sidebar-menu__links btn">Our locations</a>
             </nav>
         </div>
     </section>
