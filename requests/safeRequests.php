@@ -9,8 +9,8 @@ function sanitizeInput($input) {
         return '';
     }
 
-    $max_length = 255;
-    $input = substr($input, 0, $max_length);
+    // $max_length = 255;
+    // $input = substr($input, 0, $max_length);
 
     return $input;
 }
