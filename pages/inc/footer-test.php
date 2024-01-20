@@ -8,8 +8,8 @@
             <a href="<?php echo get_img_url('/') ?>">
                 <img src="<?php echo get_img_url('logo_tsa.png'); ?>" alt="logo">
             </a>
-            <a href="<?php echo get_img_url('ru/en') ?>">Extraordinary ability cases</a>
-            <a href="<?php echo get_img_url('ru/im-l') ?>">National interest waiver cases</a>
+            <a href="<?php echo get_img_url('/en') ?>">Extraordinary ability cases</a>
+            <a href="<?php echo get_img_url('/im-l') ?>">National interest waiver cases</a>
         </div>
     </div>
 </section>
