@@ -128,8 +128,8 @@ $routes = [
 $request_uri = str_replace(SUBDIR, '', $_SERVER['REQUEST_URI']);
 
 // Search for a specific page in an array of routes
-if (array_key_exists('/' . $request_uri, $routes)) {
-        include realpath(DOCUMENT_ROOT . SUBDIR . $routes['/' . $request_uri]);
+if (array_key_exists($request_uri, $routes)) {
+    include realpath(DOCUMENT_ROOT . SUBDIR . $routes[$request_uri]);
 } else {
     try {
         include realpath(DOCUMENT_ROOT . SUBDIR . '/pages/404.php');

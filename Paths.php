@@ -6,7 +6,7 @@ define('DOCUMENT_ROOT', $_SERVER['DOCUMENT_ROOT']);
 define('SITE_URL', ((!empty($_SERVER['HTTPS'])) ? 'https' : 'http') . '://' . $_SERVER['HTTP_HOST']);
 define('CURRENT_URL', ((!empty($_SERVER['HTTPS'])) ? 'https' : 'http') . '://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']);
 
-define('SUBDIR', '/');
+define('SUBDIR', '');
 
 // Functions for connecting styles
 function get_css_url($dir) {
@@ -48,5 +48,7 @@ function display_footerRu($path = '') {
 //// 
 
 function get_pagelink($url) {
-    return SITE_URL . SUBDIR . $url;
+    // return SITE_URL . SUBDIR . '/' . $url;
+
+    return SITE_URL . preg_replace("#/{2,}#", "/", SUBDIR . '/' . $url);
 }
