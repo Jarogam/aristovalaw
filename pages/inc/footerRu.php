@@ -36,8 +36,8 @@
             </div>
             <div class="row-fl">
                 <div class="form-links">	
-                    <a href="/ru/disclaimer" id="form-disclaimer-trigger" aria-expanded="false">Отказ от ответственности</a> | 
-                    <a href="/ru/privacy-policy" target="_blank">Политика Конфиденциальности</a>
+                    <a href="<?php echo get_pagelink('ru/disclaimer'); ?>" id="form-disclaimer-trigger" aria-expanded="false">Отказ от ответственности</a> | 
+                    <a href="<?php echo get_pagelink('ru/privacy-policy'); ?>" target="_blank">Политика Конфиденциальности</a>
                 </div>
             </div>
 
@@ -58,13 +58,13 @@
 <section class="medium-footer">
     <div class="container">
         <div class="medium-footer__wrapper">
-            <a href="<?php echo get_pagelink('/ru/im-lp/'); ?>">Immigration law practice </a>
-            <a href="<?php echo get_pagelink('/ru/lo/'); ?>">Our locations</a>
+            <a href="<?php echo get_pagelink('ru/im-lp/'); ?>">Immigration law practice </a>
+            <a href="<?php echo get_pagelink('ru/lo/'); ?>">Our locations</a>
             <a href="<?php echo get_pagelink('/') ?>">
                 <img src="<?php echo get_img_url('logo_tsa.png'); ?>" alt="logo">
             </a>
-            <a href="<?php echo get_pagelink('/ru/en/'); ?>">Extraordinary ability cases</a>
-            <a href="<?php echo get_pagelink('/ru/im-l/'); ?>">National interest waiver cases</a>
+            <a href="<?php echo get_pagelink('ru/en/'); ?>">Extraordinary ability cases</a>
+            <a href="<?php echo get_pagelink('ru/im-l/'); ?>">National interest waiver cases</a>
         </div>
     </div>
 </section>

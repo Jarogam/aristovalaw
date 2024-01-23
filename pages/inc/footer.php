@@ -36,8 +36,8 @@
             </div>
             <div class="row-fl">
                 <div class="form-links">	
-                    <a href="/disclaimer/" id="form-disclaimer-trigger" aria-expanded="false">Disclaimer</a> | 
-                    <a href="/privacy-policy/" target="_blank">Privacy Policy</a>
+                    <a href="<?php echo get_pagelink('disclaimer/'); ?>" id="form-disclaimer-trigger" aria-expanded="false">Disclaimer</a> | 
+                    <a href="<?php echo get_pagelink('privacy-policy/'); ?>" target="_blank">Privacy Policy</a>
                 </div>
             </div>
 

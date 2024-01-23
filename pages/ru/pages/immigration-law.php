@@ -66,21 +66,21 @@
     <div class="container">
         <div class="row-fl">
             <div class="col1_3">
-                <a href="<?php echo get_pagelink('/ru/eb2e/'); ?>" class="box">
+                <a href="<?php echo get_pagelink('ru/eb2e/'); ?>" class="box">
                     <h2 class="title">
                         EB-2 НАЦИОНАЛЬНОЕ ОСВОБОЖДЕНИЕ ДЛЯ ПРЕДПРИНИМАТЕЛЕЙ И БИЗНЕС-ПРОФЕССИОНАЛОВ
                     </h2>
                 </a>
             </div>
             <div class="col1_3">
-                <a href="<?php echo get_pagelink('/ru/eb2a/'); ?>" class="box">
+                <a href="<?php echo get_pagelink('ru/eb2a/'); ?>" class="box">
                     <h2 class="title">
                         EB-2 НАЦИОНАЛЬНОЕ ОСВОБОЖДЕНИЕ ДЛЯ ХУДОЖНИКОВ, ТРЕНЕРОВ И ТВОРЧЕСКИХ ПРОФЕССИОНАЛОВ
                     </h2>
                 </a>
             </div>
             <div class="col1_3">
-                <a href="<?php echo get_pagelink('/ru/eb2s/'); ?>" class="box">
+                <a href="<?php echo get_pagelink('ru/eb2s/'); ?>" class="box">
                     <h2 class="title">
                         EB-2 НАЦИОНАЛЬНОЕ ОСВОБОЖДЕНИЕ ДЛЯ УЧЕНЫХ И ИССЛЕДОВАТЕЛЕЙ
                     </h2>

@@ -23,7 +23,7 @@
                         <p>
                             In order to qualify as a person of extraordinary ability under the US immigration law, you need to satisfy the specific criteria. Our self-test will help you understand whether you may potentially qualify under the requirements set out in the Immigration and Nationality Act. Please note that even if you "pass" our self-test, this is simply a conversation starter, and not a guarantee of success in your EB-1 filing. The approval of your case ultimately depends on many factors, including the subjective judgment of the USCIS officer who will be considering your case.
                         </p>
-                        <a href="/test"class="btn">See if you may qualify</a>
+                        <a href="<?php echo get_pagelink('test/'); ?>" class="btn">See if you may qualify</a>
                     </div>
                 </div>
             </div>
@@ -37,15 +37,15 @@
                     PRACTICAL CONSIDERATIONS FOR EB-1 FILING
                 </h2>
                 <div class="blog-wrapper">
-                    <a href="<?php echo get_pagelink("/eb1c/"); ?>" class="blog-item">
+                    <a href="<?php echo get_pagelink("eb1c/"); ?>" class="blog-item">
                         <img src="<?php echo get_img_url('photo-1436491865332-7a61a109cc05.avif'); ?>" alt="image">
                         <h3>EB-1 CRITERIA</h3>
                     </a>
-                    <a href="<?php echo get_pagelink("/eb1li/"); ?>" class="blog-item">
+                    <a href="<?php echo get_pagelink("eb1li/"); ?>" class="blog-item">
                         <img src="<?php echo get_img_url('photo-1454165804606-c3d57bc86b40.avif'); ?>" alt="image">
                         <h3>WHAT DOCUMENTS SHOULD BE SUBMITTED FOR EB-1 VISA PETITION</h3>
                     </a>
-                    <a href="<?php echo get_pagelink("/eb1imm-fp/"); ?>" class="blog-item">
+                    <a href="<?php echo get_pagelink("eb1imm-fp/"); ?>" class="blog-item">
                         <img src="<?php echo get_img_url('photo_2023-06-27a_22-45-00.jpg'); ?>" alt="image">
                         <h3>EB-1 IMMIGRANT VISA PETITION FILING PROCESS</h3>
                     </a>

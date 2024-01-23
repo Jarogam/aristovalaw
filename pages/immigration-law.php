@@ -58,21 +58,21 @@
     <div class="container">
         <div class="row-fl">
             <div class="col1_3">
-                <a href="<?php echo get_pagelink('/eb2e/'); ?>" class="box">
+                <a href="<?php echo get_pagelink('eb2e/'); ?>" class="box">
                     <h2 class="title">
                         EB-2 NATIONAL INTEREST WAIVER FOR ENTREPRENEURS AND BUSINESS PROFESSIONALS
                     </h2>
                 </a>
             </div>
             <div class="col1_3">
-                <a href="<?php echo get_pagelink('/eb2a/'); ?>" class="box">
+                <a href="<?php echo get_pagelink('eb2a/'); ?>" class="box">
                     <h2 class="title">
                         EB-2 NATIONAL INTEREST WAIVER FOR ARTISTS, COACHES AND CREATIVE PROFFESIONALS
                     </h2>
                 </a>
             </div>
             <div class="col1_3">
-                <a href="<?php echo get_pagelink('/eb2s/'); ?>" class="box">
+                <a href="<?php echo get_pagelink('eb2s/'); ?>" class="box">
                     <h2 class="title">
                         EB-2 NATIONAL INTEREST WAIVER FOR SCIENTISTS AND RESEARCHERS
                     </h2>

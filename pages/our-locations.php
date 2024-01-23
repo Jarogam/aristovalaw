@@ -16,9 +16,9 @@
                 <p>Attorney <span class="nap-item nap-item--name">Tatiana S. Aristova</span> has more than 22 years of experience practicing immigration law. As an immigrant herself, she can guide you step by step through the complex United States immigration process. From her law offices in Trevose, PA and Brooklyn, NY she represents clients in all 50 states in immigration matters such as:</p>
                 <ul>
                     <li>Business immigration</li>
-                    <li><a href="/immigration-law/"  role="link">Employment-based immigration</a></li>
+                    <li><a href="<?php echo get_pagelink('immigration-law/'); ?>"  role="link">Employment-based immigration</a></li>
                     <li>Extraordinary ability petitions</li>
-                    <li><a href="/immigration-law/"  role="link">National interest waivers</a></li>
+                    <li><a href="<?php echo get_pagelink('immigration-law/'); ?>"  role="link">National interest waivers</a></li>
                     <li>Family Immigration</li>
                 </ul>
                 <p>Ms. Aristova brings business acumen to the table from her MBA attained from New York University, as well as years of working with startups and established businesses in addressing their immigration needs. She is able to work with business entities of all sizes that are searching for skilled immigrant workers to fill positions as well as with entrepreneurs and business owners who seek to relocate to the United States.</p>
