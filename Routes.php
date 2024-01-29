@@ -74,52 +74,6 @@ $routes = [
     '/eb2s/' => '/pages/eb-2-scientist.php',
     '/ru/eb2s' => '/pages/ru/pages/eb-2-scientist.php',
     '/ru/eb2s/' => '/pages/ru/pages/eb-2-scientist.php',
-
-
-    // ///// ru pages
-    // 
-
-    // '/ru/test/' => 'pages/ru/test.php',
-    // '/ru/test' => 'pages/ru/test.php',
-
-    // '/ru/ol/' => 'pages/ru/our-locations.php',
-    // '/ru/ol' => 'pages/ru/our-locations.php',
-
-    // '/ru/lo/' => 'pages/ru/locations.php',
-    // '/ru/lo' => 'pages/ru/locations.php',
-
-    // '/ru/en/' => 'pages/ru/ebinow.php',
-    // '/ru/en' => 'pages/ru/ebinow.php',
-
-    // '/ru/eb2e' => 'pages/ru/eb-2-entrepreneurs.php',
-    // '/ru/eb2e/' => 'pages/ru/eb-2-entrepreneurs.php',
-
-    // '/ru/eb2a' => 'pages/ru/eb-2-artists.php',
-    // '/ru/eb2a/' => 'pages/ru/eb-2-artists.php',
-
-    // '/ru/eb1imm-fp' => 'pages/ru/eb-1-immigration-filing-process.php',
-    // '/ru/eb1imm-fp/' => 'pages/ru/eb-1-immigration-filing-process.php',
-
-    // '/ru/eb1c' => 'pages/ru/eb-1-criteria.php',
-    // '/ru/eb1c/' => 'pages/ru/eb-1-criteria.php',
-
-    // '/ru/eb1li' => 'pages/ru/eb1-list-initial.php',
-    // '/ru/eb1li/' => 'pages/ru/eb1-list-initial.php',
-    
-    // '/ru/im-lp' => 'pages/ru/immigration-law-practice.php',
-    // '/ru/im-lp/' => 'pages/ru/immigration-law-practice.php',
-
-    // '/ru/im-l' => 'pages/ru/immigration-law.php',
-    // '/ru/im-l/' => 'pages/ru/immigration-law.php',
-    
-    // '/ru/privacy-policy' => 'pages/ru/privacy-policy.php',
-    // '/ru/privacy-policy/' => 'pages/ru/privacy-policy.php',
-
-    // '/ru/disclaimer' => 'pages/ru/disclaimer.php',
-    // '/ru/disclaimer/' => 'pages/ru/disclaimer.php',
-
-    // '/ru/eb2s' => 'pages/ru/eb-2-scientist.php',
-    // '/ru/eb2s/' => 'pages/ru/eb-2-scientist.php',
     
 ];
 
