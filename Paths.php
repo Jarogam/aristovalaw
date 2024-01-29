@@ -1,13 +1,4 @@
 <?php
-// Get the project derivation
-define('DOCUMENT_ROOT', $_SERVER['DOCUMENT_ROOT']);
-
-// Get the URL addresses
-define('SITE_URL', ((!empty($_SERVER['HTTPS'])) ? 'https' : 'http') . '://' . $_SERVER['HTTP_HOST']);
-define('CURRENT_URL', ((!empty($_SERVER['HTTPS'])) ? 'https' : 'http') . '://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']);
-
-define('SUBDIR', getSubdirectoryPath(__DIR__));
-
 function getSubdirectoryPath($path) {
     $path = rtrim($path, '/');
     $root = $_SERVER['DOCUMENT_ROOT'];
@@ -18,6 +9,19 @@ function getSubdirectoryPath($path) {
         return $subdir . '/';
     }
 }
+
+
+// Get the project derivation
+define('DOCUMENT_ROOT', $_SERVER['DOCUMENT_ROOT']);
+
+// Get the URL addresses
+define('SITE_URL', ((!empty($_SERVER['HTTPS'])) ? 'https' : 'http') . '://' . $_SERVER['HTTP_HOST']);
+define('CURRENT_URL', ((!empty($_SERVER['HTTPS'])) ? 'https' : 'http') . '://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']);
+
+define('SUBDIR', getSubdirectoryPath(__DIR__));
+
+
+
 
 // Functions for connecting styles
 function get_css_url($dir) {
