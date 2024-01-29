@@ -128,9 +128,13 @@ echo SUBDIR;
 // Get a streaming URL
 if (!SUBDIR == '/') {
     $request_uri = preg_replace('/^' . preg_quote(SUBDIR, '/') . '/', '', $_SERVER['REQUEST_URI']);
+
+    echo "<HR>YEAH!";
 }
 else {
     $request_uri = $_SERVER['REQUEST_URI'];
+
+    echo "<HR>NOOOOOOOOOO YEAH!";
 
     // Search for a specific page in an array of routes
     if (array_key_exists($request_uri, $routes)) {
