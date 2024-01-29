@@ -1,4 +1,4 @@
-<?php display_headerRu(); ?>
+<?php display_header('ru'); ?>
 
     <main>
         <section class="hero-banner" style="background: url(<?php echo get_img_url('photo-1517245386807-bb43f82c33c4.avif'); ?>) no-repeat  center/cover;">
@@ -115,4 +115,4 @@
 
     </main>
 
-<?php display_footerRu(); ?>
+<?php display_footer('ru'); ?>

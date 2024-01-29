@@ -21,7 +21,7 @@
         <section class="bottom-header">
             <div class="container">
                 <div class="logo">
-                    <a href="<?php echo get_pagelink('/'); ?>">
+                    <a href="<?php echo get_pagelink('/ru/'); ?>">
                         <img decoding="async" src="<?php echo get_img_url('logo_tsa.png'); ?>" alt="Tatiana S. Aristova Immigration Law Practice" title="" width="100%" height="auto">
                     </a>
                 </div>

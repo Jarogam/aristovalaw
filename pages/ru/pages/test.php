@@ -1,4 +1,4 @@
-<?php display_headerRu(); ?>
+<?php display_header('ru'); ?>
 
         <div class="container container-test">
             <h2 id="questionnaire_title">Question <span class="questhis">0</span> of <span class="questotal">0</span></h2>

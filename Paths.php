@@ -32,20 +32,20 @@ function display_footer($path = '') {
     }
     include DOCUMENT_ROOT . SUBDIR . '/pages/inc/footer' . $path . '.php';
 }
-function display_headerRu($path = '') {
-    if ($path != "") {
-        $path = '-' . $path;
-    }
-    include DOCUMENT_ROOT . SUBDIR . '/pages/inc/headerRu' . $path . '.php';
-}
-function display_footerRu($path = '') {
-    if ($path != "") {
-        $path = '-' . $path;
-    }
-    include DOCUMENT_ROOT . SUBDIR . '/pages/inc/footerRu' . $path . '.php';
-}
+// function display_headerRu($path = '') {
+//     if ($path != "") {
+//         $path = '-' . $path;
+//     }
+//     include DOCUMENT_ROOT . SUBDIR . '/pages/inc/headerRu' . $path . '.php';
+// }
+// function display_footerRu($path = '') {
+//     if ($path != "") {
+//         $path = '-' . $path;
+//     }
+//     include DOCUMENT_ROOT . SUBDIR . '/pages/inc/footerRu' . $path . '.php';
+// }
 
-//// 
+// //// 
 
 function get_pagelink($url) {
     // return SITE_URL . SUBDIR . '/' . $url;

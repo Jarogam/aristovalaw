@@ -1,4 +1,4 @@
-<?php display_headerRu(); ?>
+<?php display_header('ru'); ?>
 
 <div class="ta-home-banner" style="background-image: linear-gradient(90deg, rgba(255, 255, 255, 0.85) 57%, rgba(255, 255, 255, 0) 100%), url(<?php echo get_img_url('premium_photo-1680582107403-04dfac02efc3.avif') ?>) !important;">
     <div class="container">
@@ -92,4 +92,4 @@
     </div>
 </div>
 
-<?php display_footerRu(); ?>
+<?php display_footer('ru'); ?>

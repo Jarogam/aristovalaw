@@ -1,4 +1,4 @@
-<?php display_headerRu(); ?>
+<?php display_header('ru'); ?>
 
 <main>
         <section class="hero-banner" style="background: url(<?php echo get_img_url('Rectangle8.jpg'); ?>) no-repeat center/cover;">
@@ -143,4 +143,4 @@
         </section>
     </main>
 
-<?php display_footerRu(); ?>
+<?php display_footer('ru'); ?>

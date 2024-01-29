@@ -1,4 +1,4 @@
-<?php display_headerRu(); ?>
+<?php display_header('ru'); ?>
 
 <section class="hero-banner about-info" style="background-image: linear-gradient(179deg, rgba(0, 0, 0, 0.94) 30%, rgba(0, 0, 0, 0.27) 100%), url(<?php echo get_img_url('photo-1621534864185-19a06671ed23.avif'); ?>);">
         <div class="container">
@@ -323,4 +323,4 @@
         </div>
     </div>
 
-<?php display_footerRu(); ?>
+<?php display_footer('ru'); ?>
