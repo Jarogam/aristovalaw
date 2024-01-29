@@ -126,6 +126,17 @@ $routes = [
 // Get a streaming URL
 if (!(SUBDIR == '/') ) {
     $request_uri = preg_replace('/^' . preg_quote(SUBDIR, '/') . '/', '', $_SERVER['REQUEST_URI']);
+
+     // Search for a specific page in an array of routes
+     if (array_key_exists($request_uri, $routes)) {
+        include realpath(DOCUMENT_ROOT . SUBDIR . $routes[$request_uri]);
+    } else {
+        try {
+            include realpath(DOCUMENT_ROOT . SUBDIR . '/pages/404.php');
+        } catch (Exception $e) {
+            echo "MB - SUBDIR";
+        }
+    }
 }
 else {
     $request_uri = $_SERVER['REQUEST_URI'];
