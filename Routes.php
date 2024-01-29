@@ -123,10 +123,8 @@ $routes = [
     
 ];
 
-echo SUBDIR;
-
 // Get a streaming URL
-if (!SUBDIR == '/') {
+if (!(SUBDIR == '/') ) {
     $request_uri = preg_replace('/^' . preg_quote(SUBDIR, '/') . '/', '', $_SERVER['REQUEST_URI']);
 
     echo "<HR>YEAH!";
