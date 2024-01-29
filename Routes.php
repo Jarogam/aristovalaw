@@ -124,8 +124,14 @@ $routes = [
 ];
 
 
+
 // Get a streaming URL
-$request_uri = str_replace(SUBDIR, '', $_SERVER['REQUEST_URI']);
+if (!SUBDIR == '/') {
+    $request_uri = preg_replace('/^' . preg_quote(SUBDIR, '/') . '/', '', $_SERVER['REQUEST_URI']);
+}
+else {
+    $request_uri = $_SERVER['REQUEST_URI'];
+}
 
 // Search for a specific page in an array of routes
 if (array_key_exists($request_uri, $routes)) {

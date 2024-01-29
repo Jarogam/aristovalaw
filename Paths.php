@@ -9,16 +9,9 @@ define('CURRENT_URL', ((!empty($_SERVER['HTTPS'])) ? 'https' : 'http') . '://' .
 define('SUBDIR', getSubdirectoryPath(__DIR__));
 
 function getSubdirectoryPath($path) {
-    // Убедимся, что путь не заканчивается на слеш
     $path = rtrim($path, '/');
-
-    // Получим корневую директорию сайта
     $root = $_SERVER['DOCUMENT_ROOT'];
-
-    // Определим подстроку, начиная с позиции длины корневой директории
     $subdir = substr($path, strlen($root));
-
-    // Если подстрока пустая, значит, мы находимся в корневой директории
     if (empty($subdir)) {
         return '/';
     } else {
