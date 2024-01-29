@@ -131,15 +131,16 @@ if (!SUBDIR == '/') {
 }
 else {
     $request_uri = $_SERVER['REQUEST_URI'];
-}
 
-// Search for a specific page in an array of routes
-if (array_key_exists($request_uri, $routes)) {
-    include realpath(DOCUMENT_ROOT . SUBDIR . $routes[$request_uri]);
-} else {
-    try {
-        include realpath(DOCUMENT_ROOT . SUBDIR . '/pages/404.php');
-    } catch (Exception $e) {
-        echo "MB - SUBDIR";
+    // Search for a specific page in an array of routes
+    if (array_key_exists($request_uri, $routes)) {
+        include realpath(DOCUMENT_ROOT . SUBDIR . $routes[$request_uri]);
+    } else {
+        try {
+            include realpath(DOCUMENT_ROOT . SUBDIR . '/pages/404.php');
+        } catch (Exception $e) {
+            echo "MB - SUBDIR";
+        }
     }
 }
+
