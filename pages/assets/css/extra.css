@@ -424,4 +424,7 @@
   .ta-home-tes .title:before {
     width: 100%;
   }
+  .ta-home-bbl .container .box > .title {
+    font-size: 26px;
+  }
 }
