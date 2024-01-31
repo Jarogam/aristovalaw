@@ -9,16 +9,7 @@
 
 
 
-        Pennsylvania Office
 
-        5 Neshaminy Interplex, Suite 206,
-        Trevose PA 19053
-        Tel. 215-355-9095
-
-        New York Office
-
-        2433 Knapp St, Suite 202, Brooklyn NY 11235
-        Tel. 215-350-7972
         <section class="block-info">
             <div class="container">
                 <h2>Our locations</h2>

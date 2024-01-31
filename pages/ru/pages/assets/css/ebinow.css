@@ -2,6 +2,8 @@
   /* background: url(../../img/Rectangle\ 8.jpg) no-repeat center/cover; */
   padding: 120px 0;
 }
+
+
 .hero-banner h1 {
   max-width: 700px;
   margin: auto;
@@ -77,4 +79,23 @@
   font-style: normal;
   font-weight: 500;
   line-height: 150%;
+}
+
+
+@media screen and (max-width: 568px) {
+  .hero-banner h1 {
+    font-size: 30px;
+  }
+  .hero-banner {
+    padding: 40px 0;
+  }
+
+  .blog-wrapper {
+    flex-wrap: wrap;
+  }
+
+  .blog-wrapper .blog-item {
+    display: block;
+    width: 100%;
+  }
 }

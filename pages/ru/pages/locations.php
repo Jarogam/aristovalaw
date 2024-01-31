@@ -6,16 +6,8 @@
                 <h1>ИДИТЕ ПО СВОЕМУ ПУТИ ИММИГРАЦИИ С УВЕРЕННОСТЬЮ</h1>
             </div>
         </section>
-        Офис в штате Пенсильвания
 
-        5 Neshaminy Interplex, Suite 206,
-        Trevose, PA 19053
-        Тел. 215-355-9095
 
-        Офис в Нью-Йорке
-
-        2433 Knapp St, Suite 202, Brooklyn, NY 11235
-        Тел. 215-350-7972
         <section class="block-info">
             <div class="container">
                 <h2>Наши локации</h2>

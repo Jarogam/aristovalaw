@@ -87,6 +87,19 @@ const swiper = new Swiper('.swiper', {
     },
 
 });
+
+const openMobileMenu = document.querySelector('.mobile-btn__item');
+const openOverlay = document.querySelector('.header-nav__mobile');
+
+  document.querySelector('.mobile-btn').addEventListener('click', function() {
+    // if (openMobileMenu.classList.contains('active')) {
+    //     openMobileMenu.classList.remove('active');
+    // } else {
+    //     openMobileMenu.classList.add('active');
+    // }
+    openMobileMenu.classList.toggle('active');
+    openOverlay.classList.toggle('active');
+  });
 </script>
 </body>
 </html>

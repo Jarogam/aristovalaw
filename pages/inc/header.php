@@ -27,7 +27,7 @@
                 </div>
                 <div class="header-nav-flex">
                     <ul class="header-nav">
-                        <li class="menu-item"><a href="<?php echo get_pagelink(""); ?>" tabindex="0" data-wpel-link="internal" role="link">Home</a></li>
+                        <li class="menu-item"><a href="<?php echo get_pagelink("/"); ?>" tabindex="0" data-wpel-link="internal" role="link">Home</a></li>
                         <li class="menu-item"><a href="<?php echo get_pagelink("lo/"); ?>" tabindex="0" data-wpel-link="internal" role="link">Our Locations</a></li>
                         <li class="menu-item menu-item-has-children"><a tabindex="0" class="da11y-submenu" href="<?php echo get_pagelink("im-lp/"); ?>" role="link">Immigration Law Practice</a>
                         <li class="menu-item"><a href="<?php echo get_pagelink("im-l/"); ?>" tabindex="0" data-wpel-link="internal" role="link">National Interest Waiver Cases</a></li>
@@ -47,6 +47,21 @@
                         /
                         <li class="menu-item"><a href="<?php echo get_pagelink("ru/"); ?>" tabindex="0" data-wpel-link="internal" role="link">Ru</a></li>
                     </ul>
+                    <div class="header-nav__mobile">
+                    <ul class="header-nav__mobile--menu">
+                        <li class="menu-item"><a href="<?php echo get_pagelink("/"); ?>" tabindex="0" data-wpel-link="internal" role="link">Home</a></li>
+                        <li class="menu-item"><a href="<?php echo get_pagelink("lo/"); ?>" tabindex="0" data-wpel-link="internal" role="link">Our Locations</a></li>
+                        <li class="menu-item menu-item-has-children"><a tabindex="0" class="da11y-submenu" href="<?php echo get_pagelink("im-lp/"); ?>" role="link">Immigration Law Practice</a>
+                        <li class="menu-item"><a href="<?php echo get_pagelink("im-l/"); ?>" tabindex="0" data-wpel-link="internal" role="link">National Interest Waiver Cases</a></li>
+                        <ul>
+                        <li class="menu-item"><a href="<?php echo get_pagelink("/"); ?>">Eng</a> <b> / </b> <a href="<?php echo get_pagelink("ru/"); ?>" tabindex="0" data-wpel-link="internal" role="link">Ru</a></li>
+                        </ul>
+                    </ul>
+                    </div>
+
+                    <div class="mobile-btn">
+                        <a href="#" class="mobile-btn__item"><span></span></a>
+                    </div>
                 </div>
             </div>
         </section>
