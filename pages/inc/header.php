@@ -29,6 +29,7 @@
                     <ul class="header-nav">
                         <li class="menu-item"><a href="<?php echo get_pagelink("/"); ?>" tabindex="0" data-wpel-link="internal" role="link">Home</a></li>
                         <li class="menu-item"><a href="<?php echo get_pagelink("lo/"); ?>" tabindex="0" data-wpel-link="internal" role="link">Our Locations</a></li>
+                        <li class="menu-item"><a href="<?php echo get_pagelink('en/'); ?>" tabindex="0" data-wpel-link="internal" role="link">Extraordinary ability cases</a></li>
                         <li class="menu-item menu-item-has-children"><a tabindex="0" class="da11y-submenu" href="<?php echo get_pagelink("im-lp/"); ?>" role="link">Immigration Law Practice</a>
                         <li class="menu-item"><a href="<?php echo get_pagelink("im-l/"); ?>" tabindex="0" data-wpel-link="internal" role="link">National Interest Waiver Cases</a></li>
 
@@ -51,6 +52,7 @@
                     <ul class="header-nav__mobile--menu">
                         <li class="menu-item"><a href="<?php echo get_pagelink("/"); ?>" tabindex="0" data-wpel-link="internal" role="link">Home</a></li>
                         <li class="menu-item"><a href="<?php echo get_pagelink("lo/"); ?>" tabindex="0" data-wpel-link="internal" role="link">Our Locations</a></li>
+                        <li class="menu-item"><a href="<?php echo get_pagelink('en/'); ?>" tabindex="0" data-wpel-link="internal" role="link">Extraordinary ability cases</a></li>
                         <li class="menu-item menu-item-has-children"><a tabindex="0" class="da11y-submenu" href="<?php echo get_pagelink("im-lp/"); ?>" role="link">Immigration Law Practice</a>
                         <li class="menu-item"><a href="<?php echo get_pagelink("im-l/"); ?>" tabindex="0" data-wpel-link="internal" role="link">National Interest Waiver Cases</a></li>
                         <ul>

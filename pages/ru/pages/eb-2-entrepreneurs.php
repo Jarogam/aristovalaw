@@ -1,7 +1,7 @@
 <?php display_header('ru'); ?>
 
     <main>
-        <section class="hero-banner" style="background: url(<?php echo get_img_url('photo-1434030216411-0b793f4b4173.avif'); ?>) no-repeat center/cover;">
+        <section class="hero-banner" style="background: url(<?php echo get_img_url('photo-1523287562758-66c7fc58967f.avif'); ?>) no-repeat center/cover;">
             <div class="container">
             <h1>EB-2 NATIONAL INTEREST WAIVER ДЛЯ ПРЕДПРИНИМАТЕЛЕЙ И БИЗНЕС-ПРОФЕССИОНАЛОВ</h1>
             <a href="#footer-form" class="btn">ЗАПРОСИТЬ КОНСУЛЬТАЦИЮ</a>
